@@ -63,7 +63,7 @@
   "author": "Shubham Jain <s.shubjain@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@graphql-codegen/cli": "1.6.1",
+    "@graphql-codegen/cli": "1.21.7",
     "@graphql-codegen/typescript": "1.6.1",
     "@graphql-codegen/typescript-resolvers": "1.6.1",
     "@graphql-modules/core": "^0.7.13",
